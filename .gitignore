@@ -1,0 +1,10 @@
+data/
+outputs/*.npy
+outputs/*.pt
+*.pyc
+__pycache__/
+.venv/
+mlruns/
+wandb/
+*.egg-info
+.ipynb_checkpoints/
