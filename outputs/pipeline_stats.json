@@ -1,0 +1,24 @@
+{
+  "total_windows": 464687,
+  "total_positive": 3922,
+  "total_negative": 460765,
+  "class_balance_pct": 0.844,
+  "n_threat_users": 70,
+  "splits": {
+    "train": {
+      "n_windows": 328153,
+      "n_positive": 2806,
+      "n_users": 700
+    },
+    "val": {
+      "n_windows": 67881,
+      "n_positive": 486,
+      "n_users": 149
+    },
+    "test": {
+      "n_windows": 68653,
+      "n_positive": 630,
+      "n_users": 151
+    }
+  }
+}
